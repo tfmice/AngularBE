@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Host=localhost;Database=SharingAngular;Username=postgres;Password=password" Npgsql.EntityFrameworkCore.PostgreSQL
